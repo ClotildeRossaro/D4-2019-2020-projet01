@@ -1,0 +1,25 @@
+body{
+  background-color: #c0f3ff;
+}
+header {
+  background-color: #145199;
+  min-height: 20vh;
+  text-align: center;
+}
+article {
+  min-height: 60vh;
+}
+footer {
+  background: rgba(0, 0, 0, 1);
+  min-height: 10vh;
+}
+.navigation{
+display: flex;
+justify-content: space-between;
+}
+.navigation a {
+  color: #fff;
+  padding: 2em
+  font-size: 2em;
+
+}

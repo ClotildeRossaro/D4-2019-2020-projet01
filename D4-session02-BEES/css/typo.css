@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Dangrek:500|Poppins:400');
+
+html {font-size: 20px;}
+
+body {
+  background-color: white;
+  font-family: 'Abril Fatface', cursive;
+  font-weight: 400;
+  line-height: 1.45;
+  color: #FFFFFF;
+}
+h1{
+  font-size: 3.052em;
+}
